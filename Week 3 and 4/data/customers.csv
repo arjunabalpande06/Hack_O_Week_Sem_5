@@ -1,0 +1,6 @@
+customer_id,name,email,age,city
+C001,Alice Johnson,alice@email.com,28,New York
+C002,Bob Smith,bob@email.com,35,Chicago
+C003,Clara Lee,clara@email.com,41,Los Angeles
+C004,David Kim,david@email.com,29,Seattle
+C005,Emma Brown,emma@email.com,33,Miami
